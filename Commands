@@ -1,0 +1,37 @@
+pwd - current directory
+cd - move within directories (using absolute or relative paths)
+ls - lists files within directory
+cat - prints contents of the file
+cp - copy
+mv - move file or rename
+mkdir/rmdir - make or delete folder(directory)
+rm - remove files(rm -r for directory, alternative)
+touch - creating a blank file
+subl/nano/vi - text editor
+locate - find files within the system, (locate -i for case-insensitive)
+find - same as locate, plus directories
+grep - snapping to certain text, within the given file/directory
+sudo - admin rights command
+ps - show processes snapshot(unlike - top continuous)
+top - display processes (continuous)
+df - check disk space
+du - disk usage (like processes in Windows)
+head - first 10 lines
+tail - last 10 lines
+tar - archiving command
+
+chmod - read, write, execute permissions of file/directory
+chmod numeric:
+0 = No Permission
+1 = Execute
+2 = Write
+4 = Read
+
+chown - ownership change (ex. chown linuxuser test.txt - makes linuxuser owner of test.txt file)
+kill - terminating process command
+wget - downloading command (ex. wget *linkfordownload*)
+history - check recently used commands
+man/--help - info command
+echo - text printing command on screen or can be moved into the file (> to substitute, >> to add)
+zip/unzip - zip archiving commands
+useradd/passwd - adding user and password
