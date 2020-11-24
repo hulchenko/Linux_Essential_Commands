@@ -35,3 +35,5 @@ man/--help - info command
 echo - text printing command on screen or can be moved into the file (> to substitute, >> to add)
 zip/unzip - zip archiving commands
 useradd/passwd - adding user and password
+apt-get install/remove *app* - install/delete apps
+apt-get update/upgrade *app* - update app
